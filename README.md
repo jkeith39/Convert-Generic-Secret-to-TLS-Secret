@@ -1,4 +1,4 @@
-# Convert-a-Generic-Secret-to-a-TLS-Secret
+# Convert-Generic-Secret-to-TLS-Secret
 Modify a generic secret into a TLS secret in gke
 
 Overview of Secrets
